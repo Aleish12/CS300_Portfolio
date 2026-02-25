@@ -1,4 +1,5 @@
 CS300 Portfolio Reflection
+
 In this course, the main problem I worked on was building a course advising system that could efficiently store, sort, and display course information. The goal was to organize courses, allow users to search and view them in alphabetical order, and handle prerequisites correctly.
 To solve this problem, I focused on understanding different data structures and how they affect performance. I compared vectors, hash tables, and maps. Learning about run-time complexity helped me understand why some structures are faster for searching and sorting than others. Data structures are important because they directly impact how efficient and organized a program can be.
 One challenge I faced was correctly handling file input, especially with file paths and formatting. I also had to fix compilation and linking errors. I solved these problems by testing step by step, carefully reviewing my code, and adjusting when something didn't work as expected.
